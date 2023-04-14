@@ -8,7 +8,7 @@
 I am a student in Netology[^1] and learning Swift[^2]
 
 #### My progress:
-
+---
 | Module | isDone |
 | --- | --- |
 | BIOS| done |
