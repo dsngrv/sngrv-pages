@@ -3,12 +3,13 @@
 > Why join the navy if you can be a pirate? - Steve Jobs
 
 <img src="octopusheen.png" alt="drawing" width="200"/>
+
 ### About me: 
 
 I am a student in Netology[^1] and learning Swift[^2]
 
 #### My progress:
----
+
 | Module | isDone |
 | --- | --- |
 | BIOS| done |
